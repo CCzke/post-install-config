@@ -31,7 +31,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![IMG_1305](https://github.com/CCzke/post-install-config/assets/146891429/796cc505-4e0b-4657-a633-ada8ddc28fd8)
+
+
 </p>
 <p>
 From the Admin Panel, I created a new department, team, and different roles. Anyone is allowed to create tickets.
@@ -39,7 +42,9 @@ From the Admin Panel, I created a new department, team, and different roles. Any
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![IMG_1306](https://github.com/CCzke/post-install-config/assets/146891429/4c803d37-4ef9-48fe-99d5-643d5adfc596)
+
 </p>
 <p>
 After creating a couple of agents I went to the agent panel to add some users.
@@ -47,9 +52,11 @@ After creating a couple of agents I went to the agent panel to add some users.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![IMG_1310](https://github.com/CCzke/post-install-config/assets/146891429/018cf1d7-aa87-469b-987f-0212373ac85a)
+
 </p>
 <p>
-In this image, I created a few SLAs with different grace periods and some help topics varying from Business Critical Outage to a Password Reset.
+In this image, I created a few SLAs with different grace periods and some help topics varying from a Business Critical Outage to a Password Reset.
 </p>
 <br />
